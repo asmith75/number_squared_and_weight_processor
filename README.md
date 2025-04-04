@@ -1,0 +1,1 @@
+# number_squared_and_weight_processor
